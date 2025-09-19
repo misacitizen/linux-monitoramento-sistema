@@ -1,4 +1,6 @@
 Funcionalidades Principais:
+
+
 📊 Monitoramento de Logs do Sistema
 Análise do syslog para registros gerais do sistema
 
